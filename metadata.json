@@ -1,0 +1,14 @@
+{
+  "name": "puppet-seclists",
+  "version": "0.1.0",
+  "author": "l50",
+  "summary": "Install secLists repo on Kali",
+  "license": "MIT",
+  "source": "https://github.com/l50/puppet-seclists",
+  "project_page": "https://github.com/l50/puppet-seclists",
+  "issues_url": "https://github.com/l50/puppet-seclists",
+  "dependencies": [
+    {"name":"puppetlabs/git"},
+    {"name":"puppetlabs/vcsrepo"}
+  ]
+}
