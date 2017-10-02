@@ -1,6 +1,6 @@
 puppet-seclists
 ===================
-[![License](http://img.shields.io/:license-mit-blue.svg)](http://doge.mit-license.org)
+[![License](http://img.shields.io/:license-mit-blue.svg)](https://github.com/l50/puppet-seclists/blob/master/LICENSE)
 
 #### Table of Contents
 
